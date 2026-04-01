@@ -1,0 +1,27 @@
+A24 – Teach Family About Cybersecurity
+
+Topic: Scam and Phishing Awareness
+
+What is Phishing:
+Phishing is a type of online scam where attackers send fake emails or messages to trick users into sharing personal information such as passwords or OTPs.
+
+Common Scam Examples:
+- Fake bank messages
+- Delivery or parcel scams
+- Emails saying your account will be blocked
+- Fake alerts from Microsoft or Google
+
+Warning Signs:
+- Unknown or suspicious sender
+- Urgent or threatening language
+- Suspicious or shortened links
+- Spelling or grammar mistakes
+
+How to Stay Safe:
+- Do not click on unknown links
+- Always check the sender email address
+- Use official apps or websites instead of message links
+- Never share OTP, passwords, or personal information
+
+Important Rule:
+If a message creates urgency or fear, do not trust it immediately. Verify it first.
