@@ -1,0 +1,22 @@
+Cheat Sheet 
+
+Symmetric Encryption
+Same key used to encrypt and decrypt
+Fast, good for large data
+Example: AES
+Risk: how do you safely share the key?
+
+Asymmetric Encryption
+Two keys, public key encrypts, private key decrypts
+Slower but solves the key sharing problem
+Example: RSA
+Used in HTTPS, emails, digital signatures
+
+Simple Analogy
+Symmetric is like a house key, same key locks and unlocks
+Asymmetric is like a padlock you send to someone open, they lock it, only you have the key to open it
+
+When to use which
+Big data transfer use symmetric
+Key exchange and authentication use asymmetric
+HTTPS uses both, asymmetric to share the key, symmetric for the actual data

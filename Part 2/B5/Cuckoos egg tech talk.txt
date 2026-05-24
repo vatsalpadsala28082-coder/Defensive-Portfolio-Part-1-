@@ -1,0 +1,27 @@
+Cuckoos egg tech talk 
+
+Black hat
+White hat 
+Spy vs stoll 
+ The cuckoos egg book 
+
+
+
+Two sets of records
+Unix system accounting 
+Localised account script
+
+Compare result 
+
+Mark lecturer 
+
+
+B5 – Talk Notes
+UCC Tech Talk Week 8
+Attended a UCC tech talk about The Cuckoo's Egg by Cliff Stoll.
+The session was framed around black hat vs white hat — the attacker being the black hat and Stoll playing the white hat trying to catch him.
+The talk was titled Spy vs Stoll which set up the whole cat and mouse dynamic between Stoll and the KGB-linked hacker.
+The Cuckoo's Egg is a real book by Cliff Stoll documenting his experience tracking a hacker through Lawrence Berkeley Lab's Unix systems in 1986.
+It all started when Stoll found two sets of records that didn't match — a 75 cent discrepancy in the Unix system accounting logs.
+He wrote a localised account script to monitor the system and track the attacker's movements in real time.
+He would then compare results from the script against normal activity to identify anything suspicious or unauthorised.

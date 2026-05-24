@@ -1,0 +1,19 @@
+B5 – Talk Notes
+2024 Ransomware Trends and Predictions" 
+SANS Institute
+Speakers: Ryan Chapman, Mari DeGrazia, Ann Pham 
+Originally Streamed: 23 January 2024
+
+Watched a recorded SANS Institute panel on ransomware trends and predictions for 2024.
+By 23 January 2024 ransomware leak site postings already exceeded full January totals from 2022 and 2023.
+Midnight Blizzard breached Microsoft via password spraying on a legacy account with no MFA.
+VMware vCenter critical RCE vulnerability actively exploited even after patches released.
+Atlassian Confluence RCE flaw saw over 40,000 exploit attempts shortly after disclosure.
+Stealers extract browser passwords, cookies and session tokens, sold via Telegram bots to low skill attackers.
+Initial access brokers sell network access to ransomware gangs creating a criminal supply chain.
+SIM swapping bypasses SMS based MFA especially where no mobile device management exists.
+Generative AI lowering barrier for phishing and malicious code generation.
+Top three infection vectors are exposed RDP, malicious attachments and unpatched software.
+Network segmentation prevents lateral movement once attacker is inside.
+
+Video Link:https://www.youtube.com/live/SIdqIvfJNiY?si=dBwaHFVmhTTkZPOi
